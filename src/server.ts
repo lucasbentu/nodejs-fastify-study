@@ -9,12 +9,6 @@ app.get('/hello', async () => {
   return tables
 })
 
-app.post('/hello', async () => {
-  const tables = await knex('sqlite_schema').select('*')
-
-  return tables
-})
-
 app
   .listen({
     port: 3333,
