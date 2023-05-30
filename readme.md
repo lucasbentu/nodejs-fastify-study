@@ -13,6 +13,7 @@ Ferramentas utilziadas:
 - cookie plugin
 - eslint
 - tsx
+- vitest
 
 # Start
 
