@@ -13,7 +13,9 @@ Ferramentas utilziadas:
 - cookie plugin
 - eslint
 - tsx
+
 - vitest
+- supertest 
 
 # Start
 
