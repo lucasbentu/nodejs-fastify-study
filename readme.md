@@ -27,4 +27,7 @@ Ferramentas utilziadas:
 
 - Crie as migrations ```npm run knex -- migrate:latest```
 
+- Para testar```npm test```
+
 - Rode o projeto com ```npm run dev```
+
